@@ -1,0 +1,14 @@
+# Public documentation allowlist. New application source and builds stay local.
+# Ignore rules do not hide files already tracked or remove Git history.
+/*
+!/.gitignore
+!/README.md
+!/CHANGELOG.md
+!/LICENSE
+!/CREDITS.md
+!/assets/
+/assets/*
+!/assets/lunaris.png
+!/packaging/
+/packaging/*
+!/packaging/launcher-references.md
