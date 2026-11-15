@@ -1,3 +1,31 @@
+# Lunaris Client 0.16.1
+
+## Fixed
+
+- Keep log text inside the preview while scrolling, without leftover text or trails around the edges.
+- Keep Page Up and Page Down movement bounded to the visible page, including Shift selection, so long logs remain navigable.
+
+## Changed
+
+- Add a visible, draggable scrollbar to both compact and expanded logs, alongside mouse-wheel scrolling.
+- Start the log preview at the newest statement and final batch totals.
+- Support Ctrl+Home and Ctrl+End to jump to the first or last statement.
+- Preserve read-only text selection, Copy all, Export, and expand/collapse controls.
+
+## Verification
+
+- **38 UI tests passed.** Log checks cover wheel scrolling, scrollbar dragging, clipping during repeated redraws, bounded page navigation, Shift selection, and read-only content.
+- The 311-entry wrapped-log fixture was checked in compact and expanded views at **100%, 125%, and 150%** scaling. A separate **1,200-entry** fixture checks long-log retention and scrolling.
+- Roblox live methods were **not retested for 0.16.1**. The earlier three-method Apply/Undo checks belong to 0.16.0.
+
+## Compatibility
+
+This update targets Windows x64. macOS and Linux remain planned, with no
+0.16.1 builds available. Lunaris opens an existing Roblox installation; it does
+not download or replace Roblox. Unsupported flags may be skipped.
+
+---
+
 # Lunaris Client 0.16.0
 
 ## Fixed

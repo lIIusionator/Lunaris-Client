@@ -7,7 +7,7 @@
 <p align="center">Your flags. Your launcher. One desktop app.</p>
 
 <p align="center">
-  <strong>Version 0.16.0</strong><br>
+  <strong>Version 0.16.1</strong><br>
   <a href="https://github.com/lIIusionator/Lunaris-Client/releases/latest"><strong>Download for Windows</strong></a>
   &nbsp;·&nbsp;
   <a href="https://github.com/lIIusionator/Lunaris-Client/blob/main/CHANGELOG.md">Release notes</a>
@@ -25,12 +25,12 @@ existing installation; it does not download or replace Roblox.
 ### Windows Setup
 
 1. Open the [download page](https://github.com/lIIusionator/Lunaris-Client/releases/latest).
-2. Download **`Lunaris-0.16.0-Setup.exe`** and run it.
+2. Download **`Lunaris-0.16.1-Setup.exe`** and run it.
 3. Follow the setup steps, then open **Lunaris** from the Start menu.
 
 ### Portable version
 
-1. Download **`Lunaris-0.16.0-Windows-x64.zip`** from the same page.
+1. Download **`Lunaris-0.16.1-Windows-x64.zip`** from the same page.
 2. Extract the ZIP to a folder of your choice.
 3. Open **`Lunaris.exe`** from the extracted folder.
 
@@ -43,8 +43,10 @@ existing installation; it does not download or replace Roblox.
   Roblox client, or a custom launcher. Launch a specific place with a Place ID.
 - **Live flag controls** — choose **Singleton** or **Offsets** in Settings,
   apply selected flags, stop a batch, or undo eligible changes.
-- **Detailed logs** — see every flag's result and the final totals. Expand the
-  readable text preview, select text, copy everything, or export the log.
+- **Detailed logs** — see every flag's result and the final totals in a clean
+  compact or expanded preview. Scroll with the mouse wheel or visible draggable
+  scrollbar, use Page Up / Page Down or Ctrl+Home / Ctrl+End, select text, copy
+  everything, or export the log.
 - **Compact interface** — a custom title bar, rounded buttons, hover animations,
   and a waiting indicator. A reduced-motion option is available.
 - **In-app updates** — check for new releases and restart to install when ready.
@@ -79,12 +81,12 @@ ends the current session's live Undo history.
 | Platform | Status |
 | --- | --- |
 | **Windows x64** | Available — Setup and portable ZIP |
-| **macOS** | Planned — no 0.16.0 build |
-| **Linux** | Planned — no 0.16.0 build |
+| **macOS** | Planned — no 0.16.1 build |
+| **Linux** | Planned — no 0.16.1 build |
 
 ## License and credits
 
-Official Lunaris 0.16.0 binaries are free to use under the [license](LICENSE).
+Official Lunaris 0.16.1 binaries are free to use under the [license](LICENSE).
 See [Credits](CREDITS.md) for project acknowledgments. Both are also available
 from **Settings**.
 
