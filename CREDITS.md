@@ -25,6 +25,6 @@ The moon icon and native interface were created for Lunaris.
 Thanks to the Bloxstrap, Fishstrap, Froststrap, and AppleBlox projects for their
 launcher interfaces. Integration references and the source links used for those
 interfaces are listed in
-[`packaging/launcher-references.md`](packaging/launcher-references.md).
+[`packaging/launcher-references.md`](https://github.com/lIIusionator/Lunaris-Client/blob/main/packaging/launcher-references.md).
 
 Roblox is developed by Roblox Corporation. Lunaris is an independent project.
