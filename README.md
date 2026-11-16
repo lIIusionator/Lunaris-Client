@@ -7,7 +7,7 @@
 <p align="center">Your flags. Your launcher. One desktop app.</p>
 
 <p align="center">
-  <strong>Version 0.16.2</strong><br>
+  <strong>Version 0.16.3</strong><br>
   <a href="https://github.com/lIIusionator/Lunaris-Client/releases/latest"><strong>Download for Windows</strong></a>
   &nbsp;·&nbsp;
   <a href="https://github.com/lIIusionator/Lunaris-Client/blob/main/CHANGELOG.md">Release notes</a>
@@ -25,12 +25,12 @@ existing installation; it does not download or replace Roblox.
 ### Windows Setup
 
 1. Open the [download page](https://github.com/lIIusionator/Lunaris-Client/releases/latest).
-2. Download **`Lunaris-0.16.2-Setup.exe`** and run it.
+2. Download **`Lunaris-0.16.3-Setup.exe`** and run it.
 3. Follow the setup steps, then open **Lunaris** from the Start menu.
 
 ### Portable version
 
-1. Download **`Lunaris-0.16.2-Windows-x64.zip`** from the same page.
+1. Download **`Lunaris-0.16.3-Windows-x64.zip`** from the same page.
 2. Extract the ZIP to a folder of your choice.
 3. Open **`Lunaris.exe`** from the extracted folder.
 
@@ -81,12 +81,12 @@ ends the current session's live Undo history.
 | Platform | Status |
 | --- | --- |
 | **Windows x64** | Available — Setup and portable ZIP |
-| **macOS** | Planned — no 0.16.2 build |
-| **Linux** | Planned — no 0.16.2 build |
+| **macOS** | Planned — no 0.16.3 build |
+| **Linux** | Planned — no 0.16.3 build |
 
 ## License and credits
 
-Official Lunaris 0.16.2 binaries are free to use under the [license](LICENSE).
+Official Lunaris 0.16.3 binaries are free to use under the [license](LICENSE).
 See [Credits](CREDITS.md) for project acknowledgments. Both are also available
 from **Settings**.
 
